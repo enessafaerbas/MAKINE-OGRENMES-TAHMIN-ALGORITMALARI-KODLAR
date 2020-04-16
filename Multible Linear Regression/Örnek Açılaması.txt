@@ -1,0 +1,2 @@
+Bu örnekte Multible Linear Regression kullanarak tenis oynama bilgilerinin bulunduğu verisetinde nem oranını tahmin eden model etğitildi.
+Model'in tahminlerinin iyileştirilmesi için değişken seçimi için kullanılan backward elimination yöntemi kullanıldı ve sonunçlar çıktı olarak alındı.
